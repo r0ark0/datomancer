@@ -1,0 +1,34 @@
+---
+layout: default
+
+title: Data Magic
+---
+
+  
+<section class="container">
+    <div class="my-5">
+      <div class="row row-cols-1 row-cols-md-3 g-4">
+  
+        {% for post in site.posts %}
+        <div class="col">
+          <a href="{{ post .url }}" class="card-link">
+            <div class="card h-100 rounded-0 card-hover">
+              <div class="p-3 d-flex justify-content-between align-items-center">
+                <div class="bg-light px-2 py-1 fw-bold" style="font-size: 0.9rem;">#{{ forloop.index }} </div>
+                <div class="text-muted fw-bold" style="font-size: 0.9rem;">{{ post.date | date: "%^b %Y" }}</div>
+              </div>
+              <div class="card-image-wrapper">
+                <img src="{{ post.image }}" alt="Featured image for {{ post.title }}">
+              </div>              
+              <div class="card-body px-2">
+                <h5 class="card-title text-dark fw-bold">{{ post.title }}</h5>
+                <p class="card-text text-muted">{{ post.content | strip_html | truncate: 75 }}</p>
+              </div>
+            </div>
+          </a>
+        </div>
+        {% endfor %}
+  
+      </div>
+    </div>
+</section>  

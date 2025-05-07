@@ -1,0 +1,24 @@
+# _config.yml
+
+# Site settings
+url: "https://datomancer.com"      # the base hostname & protocol for your site
+baseurl: ""                        # the subpath of your site, e.g. "/blog" (leave empty if deploying at root)
+title: "Datomancer"                # the name of your site
+description: "We turn data into stories worth sharing, arguing about, or just vibing with." 
+
+# Permalinks
+permalink: /:year/:month/:day/:title/
+
+# Sass
+sass:
+  load_paths:
+    - _sass
+
+# Plugins
+plugins:
+  - jekyll-feed                  # Generate RSS/Atom feeds for your posts
+
+# jekyll-feed configuration (optional defaults shown)
+feed:
+  path: atom.xml                 # the feed will be available at /atom.xml
+  collections: ["posts"]         # which collections to include in the feed
