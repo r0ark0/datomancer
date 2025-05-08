@@ -21,8 +21,8 @@ title: Data Magic
                 <img src="{{ post.image }}" alt="Featured image for {{ post.title }}">
               </div>              
               <div class="card-body px-2">
-                <h5 class="card-title text-dark fw-bold">{{ post.title }}</h5>
-                <p class="card-text text-muted">{{ post.content | strip_html | truncate: 75 }}</p>
+                <h5 class="card-title text-dark fw-bold fs-3">{{ post.title }}</h5>
+                <p class="card-text text-muted lead">{{ post.content | strip_html | truncate: 150 }}</p>
               </div>
             </div>
           </a>

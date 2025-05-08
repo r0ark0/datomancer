@@ -31,34 +31,28 @@ html, .default {
   pointer-events: none;
 }
 
-.film-grain {
+h1,h2,h3,h4,h5,h6{
+  font-family: Georgia, serif;
 }
-
-.film-grain::after {
-  content: "";
-  pointer-events: none;
-  position: fixed;
-  inset: 0;             /* top/right/bottom/left = 0 */
-  z-index: 9999;        /* on top of everything */
-  background: white;    /* needed so filter has something to stamp on */
-  mix-blend-mode: overlay;
-  filter: url("#grain");
-}
-
-
-
-
 
 .card-hover {
-  transition: transform 0.3s ease;
+  // Force GPU layer & smoother edges:
+  will-change: transform;
+  backface-visibility: hidden;
+  transform: translateZ(0);
 
-  border: 1px solid $dark;
-  outline: 1px solid $primary;
-  outline-offset: -2px;
+  // Border stays dark:
+  border: 1px solid $primary;
+
+  // Replace outline with a “stroke” via box-shadow:
+  box-shadow: 0 0 0 1px $primary;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .card-link:hover .card-hover {
-  transform: scale(1.06);
+  transform: scale(1.06) translateZ(0);
+  // bump up the “stroke” on hover:
+  box-shadow: 0 0 0 2px $primary;
 }
 
 .card-link {
