@@ -165,36 +165,36 @@ The chart below shows how the current college of electors breaks down by the pop
         <div class="d-flex flex-wrap justify-content-center gap-1">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Philippe_Barbarin_%28cropped%29.jpg/250px-Philippe_Barbarin_%28cropped%29.jpg"
-                 alt="Philippe Cardinal Barbarin"
-                 title="Philippe Cardinal Barbarin"
+                 alt="Philippe Barbarin"
+                 title="Philippe Barbarin"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/CardinalJosipBozani%C4%87.jpg/250px-CardinalJosipBozani%C4%87.jpg"
-                 alt="Josip Cardinal Bozanić"
-                 title="Josip Cardinal Bozanić"
+                 alt="Josip Bozanić"
+                 title="Josip Bozanić"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/P%C3%A9ter_Erd%C5%91_in_2011.jpg/250px-P%C3%A9ter_Erd%C5%91_in_2011.jpg"
-                 alt="Péter Cardinal Erdő"
-                 title="Péter Cardinal Erdő"
+                 alt="Péter Erdő"
+                 title="Péter Erdő"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Vinko_Puljic_June_2015_%2818760757238%29.jpg/250px-Vinko_Puljic_June_2015_%2818760757238%29.jpg"
-                 alt="Vinko Cardinal Puljić"
-                 title="Vinko Cardinal Puljić"
+                 alt="Vinko Puljić"
+                 title="Vinko Puljić"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Peter_Turkson_%28cropped%29.jpg/250px-Peter_Turkson_%28cropped%29.jpg"
-                 alt="Peter Kodwo Appiah Cardinal Turkson"
-                 title="Peter Kodwo Appiah Cardinal Turkson"
+                 alt="Peter Kodwo Appiah Turkson"
+                 title="Peter Kodwo Appiah Turkson"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
@@ -208,134 +208,134 @@ The chart below shows how the current college of electors breaks down by the pop
         <div class="d-flex flex-wrap justify-content-center gap-1">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Joao_braz_de_aviz.jpg/250px-Joao_braz_de_aviz.jpg"
-                 alt="João Cardinal Bráz de Aviz"
-                 title="João Cardinal Bráz de Aviz"
+                 alt="João Bráz de Aviz"
+                 title="João Bráz de Aviz"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Betori.JPG/250px-Betori.JPG"
-                 alt="Giuseppe Cardinal Betori"
-                 title="Giuseppe Cardinal Betori"
+                 alt="Giuseppe Betori"
+                 title="Giuseppe Betori"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Burke-BB-768x1152.jpg/250px-Burke-BB-768x1152.jpg"
-                 alt="Raymond Leo Cardinal Burke"
-                 title="Raymond Leo Cardinal Burke"
+                 alt="Raymond Leo Burke"
+                 title="Raymond Leo Burke"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Card._Canizares_%2830279529724%29.jpg/250px-Card._Canizares_%2830279529724%29.jpg"
-                 alt="Antonio Cardinal Cañizares Llovera"
-                 title="Antonio Cardinal Cañizares Llovera"
+                 alt="Antonio Cañizares Llovera"
+                 title="Antonio Cañizares Llovera"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Thomas_Christopher_Collins_2014.jpg/250px-Thomas_Christopher_Collins_2014.jpg"
-                 alt="Thomas Christopher Cardinal Collins"
-                 title="Thomas Christopher Cardinal Collins"
+                 alt="Thomas Christopher Collins"
+                 title="Thomas Christopher Collins"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Daniel_DiNardo_%28142360355%29.jpg/250px-Daniel_DiNardo_%28142360355%29.jpg"
-                 alt="Daniel Nicholas Cardinal DiNardo"
-                 title="Daniel Nicholas Cardinal DiNardo"
+                 alt="Daniel Nicholas DiNardo"
+                 title="Daniel Nicholas DiNardo"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Willem_Eijk_%282020%29.jpg/250px-Willem_Eijk_%282020%29.jpg"
-                 alt="Willem Jacobus Cardinal Eijk"
-                 title="Willem Jacobus Cardinal Eijk"
+                 alt="Willem Jacobus Eijk"
+                 title="Willem Jacobus Eijk"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Card._Fernando_Filoni_in_Taiwan.jpg/250px-Card._Fernando_Filoni_in_Taiwan.jpg"
-                 alt="Fernando Cardinal Filoni"
-                 title="Fernando Cardinal Filoni"
+                 alt="Fernando Filoni"
+                 title="Fernando Filoni"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/James_Cardinal_Harvey_%28cropped%29.JPG/250px-James_Cardinal_Harvey_%28cropped%29.JPG"
-                 alt="James Michael Cardinal Harvey"
-                 title="James Michael Cardinal Harvey"
+                 alt="James Michael Harvey"
+                 title="James Michael Harvey"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Kurt_Koch_par_Claude_Truong-Ngoc_d%C3%A9cembre_2016.jpg/250px-Kurt_Koch_par_Claude_Truong-Ngoc_d%C3%A9cembre_2016.jpg"
-                 alt="Kurt Cardinal Koch"
-                 title="Kurt Cardinal Koch"
+                 alt="Kurt Koch"
+                 title="Kurt Koch"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Coat_of_arms_of_Reinhard_Marx.svg/250px-Coat_of_arms_of_Reinhard_Marx.svg.png"
-                 alt="Reinhard Cardinal Marx"
-                 title="Reinhard Cardinal Marx"
+                 alt="Reinhard Marx"
+                 title="Reinhard Marx"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cardinal_John_Njue_in_February_2017_in_the_Vatican_City.jpg/250px-Cardinal_John_Njue_in_February_2017_in_the_Vatican_City.jpg"
-                 alt="John Cardinal Njue"
-                 title="John Cardinal Njue"
+                 alt="John Njue"
+                 title="John Njue"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/K._nycz1_%28cropped%29.jpg/250px-K._nycz1_%28cropped%29.jpg"
-                 alt="Kazimierz Cardinal Nycz"
-                 title="Kazimierz Cardinal Nycz"
+                 alt="Kazimierz Nycz"
+                 title="Kazimierz Nycz"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Cardinal_Ranjith.jpg/250px-Cardinal_Ranjith.jpg"
-                 alt="Albert Malcolm Ranjith Cardinal Patabendige Don"
-                 title="Albert Malcolm Ranjith Cardinal Patabendige Don"
+                 alt="Albert Malcolm Ranjith Patabendige Don"
+                 title="Albert Malcolm Ranjith Patabendige Don"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Stanis%C5%82aw_Ry%C5%82ko_%282018%29.jpg/250px-Stanis%C5%82aw_Ry%C5%82ko_%282018%29.jpg"
-                 alt="Stanisław Cardinal Ryłko"
-                 title="Stanisław Cardinal Ryłko"
+                 alt="Stanisław Ryłko"
+                 title="Stanisław Ryłko"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Cardinal_Robert_Sarah_%28cropped%29.JPG/250px-Cardinal_Robert_Sarah_%28cropped%29.JPG"
-                 alt="Robert Cardinal Sarah"
-                 title="Robert Cardinal Sarah"
+                 alt="Robert Sarah"
+                 title="Robert Sarah"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Odilo_Scherer_em_setembro_de_2018_%28cropped%29.jpg/250px-Odilo_Scherer_em_setembro_de_2018_%28cropped%29.jpg"
-                 alt="Odilo Pedro Cardinal Scherer"
-                 title="Odilo Pedro Cardinal Scherer"
+                 alt="Odilo Pedro Scherer"
+                 title="Odilo Pedro Scherer"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Luis_Antonio_Tagle_at_Manila_in_2016_%28cropped%29.jpg/250px-Luis_Antonio_Tagle_at_Manila_in_2016_%28cropped%29.jpg"
-                 alt="Luis Antonio Gokim Cardinal Tagle"
-                 title="Luis Antonio Gokim Cardinal Tagle"
+                 alt="Luis Antonio Gokim Tagle"
+                 title="Luis Antonio Gokim Tagle"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cardinal_Baselios_Cleemis_Cardinal_Thottunkal.jpg/250px-Cardinal_Baselios_Cleemis_Cardinal_Thottunkal.jpg"
-                 alt="Baselios Cleemis (Isaac) Cardinal Thottunkal"
-                 title="Baselios Cleemis (Isaac) Cardinal Thottunkal"
+                 alt="Baselios Cleemis (Isaac) Thottunkal"
+                 title="Baselios Cleemis (Isaac) Thottunkal"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
@@ -349,638 +349,638 @@ The chart below shows how the current college of electors breaks down by the pop
         <div class="d-flex flex-wrap justify-content-center gap-1">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Portrait_of_Cardinal_Advincula.jpg/250px-Portrait_of_Cardinal_Advincula.jpg"
-                 alt="Jose Lazaro Fuerte Cardinal Advincula Jr."
-                 title="Jose Lazaro Fuerte Cardinal Advincula Jr."
+                 alt="Jose Lazaro Fuerte Advincula Jr."
+                 title="Jose Lazaro Fuerte Advincula Jr."
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Cardenalaguiar.jpg/250px-Cardenalaguiar.jpg"
-                 alt="Carlos Cardinal Aguiar Retes"
-                 title="Carlos Cardinal Aguiar Retes"
+                 alt="Carlos Aguiar Retes"
+                 title="Carlos Aguiar Retes"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Mons._Americo_Aguiar_visita_a_los_j%C3%B3venes_de_Tierra_Santa%2C_2023.png/250px-Mons._Americo_Aguiar_visita_a_los_j%C3%B3venes_de_Tierra_Santa%2C_2023.png"
-                 alt="Américo Manuel Cardinal Alves Aguiar"
-                 title="Américo Manuel Cardinal Alves Aguiar"
+                 alt="Américo Manuel Alves Aguiar"
+                 title="Américo Manuel Alves Aguiar"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/AED_11%C3%A8me_Nuit_des_T%C3%A9moins_-_Fridolin_Ambongo_-_2_%28cropped%29.jpg/250px-AED_11%C3%A8me_Nuit_des_T%C3%A9moins_-_Fridolin_Ambongo_-_2_%28cropped%29.jpg"
-                 alt="Fridolin Cardinal Ambongo Besungu, O.F.M. Cap."
-                 title="Fridolin Cardinal Ambongo Besungu, O.F.M. Cap."
+                 alt="Fridolin Ambongo Besungu, O.F.M. Cap."
+                 title="Fridolin Ambongo Besungu, O.F.M. Cap."
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Anders_Arborelius_in_2019.jpg/250px-Anders_Arborelius_in_2019.jpg"
-                 alt="Anders Cardinal Arborelius, O.C.D."
-                 title="Anders Cardinal Arborelius, O.C.D."
+                 alt="Anders Arborelius, O.C.D."
+                 title="Anders Arborelius, O.C.D."
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Mgr_Jean-Marc_Aveline_par_Claude_Truong-Ngoc_juillet_2021.jpg/250px-Mgr_Jean-Marc_Aveline_par_Claude_Truong-Ngoc_juillet_2021.jpg"
-                 alt="Jean-Marc Noël Cardinal Aveline"
-                 title="Jean-Marc Noël Cardinal Aveline"
+                 alt="Jean-Marc Noël Aveline"
+                 title="Jean-Marc Noël Aveline"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Fabio_Baggio-5-2-2019.jpg/250px-Fabio_Baggio-5-2-2019.jpg"
-                 alt="Fabio Cardinal Baggio, C.S."
-                 title="Fabio Cardinal Baggio, C.S."
+                 alt="Fabio Baggio, C.S."
+                 title="Fabio Baggio, C.S."
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Don_Mimmo_Battaglia_pentecoste_2018_%28cropped%29.jpg/250px-Don_Mimmo_Battaglia_pentecoste_2018_%28cropped%29.jpg"
-                 alt="Domenico Cardinal Battaglia"
-                 title="Domenico Cardinal Battaglia"
+                 alt="Domenico Battaglia"
+                 title="Domenico Battaglia"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ignace_Bessi_Dogbo.png/250px-Ignace_Bessi_Dogbo.png"
-                 alt="Ignace Cardinal Bessi Dogbo"
-                 title="Ignace Cardinal Bessi Dogbo"
+                 alt="Ignace Bessi Dogbo"
+                 title="Ignace Bessi Dogbo"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Maung_Bo.jpg/250px-Maung_Bo.jpg"
-                 alt="Charles Maung Cardinal Bo, S.D.B."
-                 title="Charles Maung Cardinal Bo, S.D.B."
+                 alt="Charles Maung Bo, S.D.B."
+                 title="Charles Maung Bo, S.D.B."
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Stephen_Brislin.jpg/250px-Stephen_Brislin.jpg"
-                 alt="Stephen Cardinal Brislin"
-                 title="Stephen Cardinal Brislin"
+                 alt="Stephen Brislin"
+                 title="Stephen Brislin"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Fran%C3%A7ois-Xavier_Bustillo_%28cropped%29.jpg/200px-Fran%C3%A7ois-Xavier_Bustillo_%28cropped%29.jpg"
-                 alt="François-Xavier Cardinal Bustillo, O.F.M. Conv."
-                 title="François-Xavier Cardinal Bustillo, O.F.M. Conv."
+                 alt="François-Xavier Bustillo, O.F.M. Conv."
+                 title="François-Xavier Bustillo, O.F.M. Conv."
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Mykola_Bychok%2C_CSsR.jpg/250px-Mykola_Bychok%2C_CSsR.jpg"
-                 alt="Mykola Cardinal Bychok, C.Ss.R."
-                 title="Mykola Cardinal Bychok, C.Ss.R."
+                 alt="Mykola Bychok, C.Ss.R."
+                 title="Mykola Bychok, C.Ss.R."
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Coat_of_arms_of_Luis_Gerardo_Cabrera_Herrera.svg/250px-Coat_of_arms_of_Luis_Gerardo_Cabrera_Herrera.svg.png"
-                 alt="Luis Gerardo Cardinal Cabrera Herrera, O.F.M."
-                 title="Luis Gerardo Cardinal Cabrera Herrera, O.F.M."
+                 alt="Luis Gerardo Cabrera Herrera, O.F.M."
+                 title="Luis Gerardo Cabrera Herrera, O.F.M."
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Card._Cantoni_27-08-22.jpg/250px-Card._Cantoni_27-08-22.jpg"
-                 alt="Oscar Cardinal Cantoni"
-                 title="Oscar Cardinal Cantoni"
+                 alt="Oscar Cantoni"
+                 title="Oscar Cantoni"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Coat_of_arms_of_Carlos_Gustavo_Castillo_Mattasoglio_%28cardinal%29.svg/250px-Coat_of_arms_of_Carlos_Gustavo_Castillo_Mattasoglio_%28cardinal%29.svg.png"
-                 alt="Carlos Gustavo Cardinal Castillo Mattasoglio"
-                 title="Carlos Gustavo Cardinal Castillo Mattasoglio"
+                 alt="Carlos Gustavo Castillo Mattasoglio"
+                 title="Carlos Gustavo Castillo Mattasoglio"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Arzobispo_Fernando_Chomali_%28cropped%29.jpg/250px-Arzobispo_Fernando_Chomali_%28cropped%29.jpg"
-                 alt="Fernando Natalio Cardinal Chomalí Garib"
-                 title="Fernando Natalio Cardinal Chomalí Garib"
+                 alt="Fernando Natalio Chomalí Garib"
+                 title="Fernando Natalio Chomalí Garib"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/202309_CardinalStephenCHOW_1H_ForMedia.jpg/250px-202309_CardinalStephenCHOW_1H_ForMedia.jpg"
-                 alt="Stephen Cardinal Chow Sau-yan, S.J."
-                 title="Stephen Cardinal Chow Sau-yan, S.J."
+                 alt="Stephen Chow Sau-yan, S.J."
+                 title="Stephen Chow Sau-yan, S.J."
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Manuel_Clemente.png/250px-Manuel_Clemente.png"
-                 alt="Manuel José Cardinal Macário do Nascimento Clemente"
-                 title="Manuel José Cardinal Macário do Nascimento Clemente"
+                 alt="Manuel José Macário do Nascimento Clemente"
+                 title="Manuel José Macário do Nascimento Clemente"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Toma_posesi%C3%B3n_de_Jos%C3%A9_Cobo_de_Santa_Mar%C3%ADa_de_Montserrat%2C_Roma_04.jpg/250px-Toma_posesi%C3%B3n_de_Jos%C3%A9_Cobo_de_Santa_Mar%C3%ADa_de_Montserrat%2C_Roma_04.jpg"
-                 alt="José Cardinal Cobo Cano"
-                 title="José Cardinal Cobo Cano"
+                 alt="José Cobo Cano"
+                 title="José Cobo Cano"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Cardeal_Costa.jpg/250px-Cardeal_Costa.jpg"
-                 alt="Paulo Cezar Cardinal Costa"
-                 title="Paulo Cezar Cardinal Costa"
+                 alt="Paulo Cezar Costa"
+                 title="Paulo Cezar Costa"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mgr_Coutts_%C3%A0_la_Nuit_des_T%C3%A9moins_2016_%28cropped%29.jpg/250px-Mgr_Coutts_%C3%A0_la_Nuit_des_T%C3%A9moins_2016_%28cropped%29.jpg"
-                 alt="Joseph Cardinal Coutts"
-                 title="Joseph Cardinal Coutts"
+                 alt="Joseph Coutts"
+                 title="Joseph Coutts"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Cdl._Cupich_%28cropped%29.png/250px-Cdl._Cupich_%28cropped%29.png"
-                 alt="Blase Joseph Cardinal Cupich"
-                 title="Blase Joseph Cardinal Cupich"
+                 alt="Blase Joseph Cupich"
+                 title="Blase Joseph Cupich"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Card._Michael_Czerny_S.J._at_the_Vatican.jpg/250px-Card._Michael_Czerny_S.J._at_the_Vatican.jpg"
-                 alt="Michael F. Cardinal Czerny, S.J."
-                 title="Michael F. Cardinal Czerny, S.J."
+                 alt="Michael F. Czerny, S.J."
+                 title="Michael F. Czerny, S.J."
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Pablo_Virgilio_David_in_2014_%28Retouched%29.jpg/250px-Pablo_Virgilio_David_in_2014_%28Retouched%29.jpg"
-                 alt="Pablo Virgilio Siongco Cardinal David"
-                 title="Pablo Virgilio Siongco Cardinal David"
+                 alt="Pablo Virgilio Siongco David"
+                 title="Pablo Virgilio Siongco David"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coat_of_arms_of_Angelo_De_Donatis_%28Cardinal%29.svg/250px-Coat_of_arms_of_Angelo_De_Donatis_%28Cardinal%29.svg.png"
-                 alt="Angelo Cardinal De Donatis"
-                 title="Angelo Cardinal De Donatis"
+                 alt="Angelo De Donatis"
+                 title="Angelo De Donatis"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Monseigneur_De_Kesel_%C3%A0_la_basilique_Saint-Martin_de_Li%C3%A8ge.jpg/250px-Monseigneur_De_Kesel_%C3%A0_la_basilique_Saint-Martin_de_Li%C3%A8ge.jpg"
-                 alt="Jozef Cardinal De Kesel"
-                 title="Jozef Cardinal De Kesel"
+                 alt="Jozef De Kesel"
+                 title="Jozef De Kesel"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/John_Atcherley_Dew_in_2014.jpg/250px-John_Atcherley_Dew_in_2014.jpg"
-                 alt="John Atcherley Cardinal Dew"
-                 title="John Atcherley Cardinal Dew"
+                 alt="John Atcherley Dew"
+                 title="John Atcherley Dew"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/2017-03-30_Virg%C3%ADlio_do_Carmo_da_Silva.jpg/250px-2017-03-30_Virg%C3%ADlio_do_Carmo_da_Silva.jpg"
-                 alt="Virgilio Cardinal do Carmo da Silva, S.D.B."
-                 title="Virgilio Cardinal do Carmo da Silva, S.D.B."
+                 alt="Virgilio do Carmo da Silva, S.D.B."
+                 title="Virgilio do Carmo da Silva, S.D.B."
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kevin_Joseph_Farrell_1.jpg/250px-Kevin_Joseph_Farrell_1.jpg"
-                 alt="Kevin Joseph Cardinal Farrell"
-                 title="Kevin Joseph Cardinal Farrell"
+                 alt="Kevin Joseph Farrell"
+                 title="Kevin Joseph Farrell"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/V%C3%ADctor_Manuel_Fern%C3%A1ndez-%28cropped%29.jpg/250px-V%C3%ADctor_Manuel_Fern%C3%A1ndez-%28cropped%29.jpg"
-                 alt="Victor Manuel Cardinal Fernández"
-                 title="Victor Manuel Cardinal Fernández"
+                 alt="Victor Manuel Fernández"
+                 title="Victor Manuel Fernández"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/%C3%81ngel_Fern%C3%A1ndez_Artime.jpg/250px-%C3%81ngel_Fern%C3%A1ndez_Artime.jpg"
-                 alt="Ángel Cardinal Fernández Artime, S.D.B."
-                 title="Ángel Cardinal Fernández Artime, S.D.B."
+                 alt="Ángel Fernández Artime, S.D.B."
+                 title="Ángel Fernández Artime, S.D.B."
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Filipe_Neri_Ferrao_%28cropped%29.jpg/250px-Filipe_Neri_Ferrao_%28cropped%29.jpg"
-                 alt="Filipe Neri António Sebastião do Rosário Cardinal Ferrão"
-                 title="Filipe Neri António Sebastião do Rosário Cardinal Ferrão"
+                 alt="Filipe Neri António Sebastião do Rosário Ferrão"
+                 title="Filipe Neri António Sebastião do Rosário Ferrão"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Sebastian_Francis.jpg/250px-Sebastian_Francis.jpg"
-                 alt="Sebastian Cardinal Francis"
-                 title="Sebastian Cardinal Francis"
+                 alt="Sebastian Francis"
+                 title="Sebastian Francis"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Arlindo_Gomes_Furtado.jpg/250px-Arlindo_Gomes_Furtado.jpg"
-                 alt="Arlindo Cardinal Gomes Furtado"
-                 title="Arlindo Cardinal Gomes Furtado"
+                 alt="Arlindo Gomes Furtado"
+                 title="Arlindo Gomes Furtado"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cardinale_Mauro_Gambetti.png/250px-Cardinale_Mauro_Gambetti.png"
-                 alt="Mauro Maria Cardinal Gambetti, O.F.M. Conv."
-                 title="Mauro Maria Cardinal Gambetti, O.F.M. Conv."
+                 alt="Mauro Maria Gambetti, O.F.M. Conv."
+                 title="Mauro Maria Gambetti, O.F.M. Conv."
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Cardinal_William_Goh_%28cropped%29.jpg/250px-Cardinal_William_Goh_%28cropped%29.jpg"
-                 alt="William Cardinal Goh Seng Chye"
-                 title="William Cardinal Goh Seng Chye"
+                 alt="William Goh Seng Chye"
+                 title="William Goh Seng Chye"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Cardinal_Mario_Grech_%28cropped%29.jpg/250px-Cardinal_Mario_Grech_%28cropped%29.jpg"
-                 alt="Mario Cardinal Grech"
-                 title="Mario Cardinal Grech"
+                 alt="Mario Grech"
+                 title="Mario Grech"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Claudio_Gugerotti_1.jpg/250px-Claudio_Gugerotti_1.jpg"
-                 alt="Claudio Cardinal Gugerotti"
-                 title="Claudio Cardinal Gugerotti"
+                 alt="Claudio Gugerotti"
+                 title="Claudio Gugerotti"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Jean-Claude_Hollerich.jpg/250px-Jean-Claude_Hollerich.jpg"
-                 alt="Jean-Claude Cardinal Hollerich, S.J."
-                 title="Jean-Claude Cardinal Hollerich, S.J."
+                 alt="Jean-Claude Hollerich, S.J."
+                 title="Jean-Claude Hollerich, S.J."
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/His_Eminence_Antoine_cardinal_Kambanda%2C_GCLJ.jpg/250px-His_Eminence_Antoine_cardinal_Kambanda%2C_GCLJ.jpg"
-                 alt="Antoine Cardinal Kambanda"
-                 title="Antoine Cardinal Kambanda"
+                 alt="Antoine Kambanda"
+                 title="Antoine Kambanda"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Cardinal_Tarsicio_Isao_Kikuchi.jpg/250px-Cardinal_Tarsicio_Isao_Kikuchi.jpg"
-                 alt="Tarcisio Isao Cardinal Kikuchi, S.V.D."
-                 title="Tarcisio Isao Cardinal Kikuchi, S.V.D."
+                 alt="Tarcisio Isao Kikuchi, S.V.D."
+                 title="Tarcisio Isao Kikuchi, S.V.D."
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Card._George_J._Koovakad.jpg/250px-Card._George_J._Koovakad.jpg"
-                 alt="George Jacob Cardinal Koovakad"
-                 title="George Jacob Cardinal Koovakad"
+                 alt="George Jacob Koovakad"
+                 title="George Jacob Koovakad"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Konrad_Krajewski_%282020%29.jpg/250px-Konrad_Krajewski_%282020%29.jpg"
-                 alt="Konrad Cardinal Krajewski"
-                 title="Konrad Cardinal Krajewski"
+                 alt="Konrad Krajewski"
+                 title="Konrad Krajewski"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Jean_Pierre_Kutwa.jpg/250px-Jean_Pierre_Kutwa.jpg"
-                 alt="Jean-Pierre Cardinal Kutwa"
-                 title="Jean-Pierre Cardinal Kutwa"
+                 alt="Jean-Pierre Kutwa"
+                 title="Jean-Pierre Kutwa"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mouvaux_-_Cardinal_G%C3%A9rald_Cyprien_Lacroix_-_1_%28cropped%29.jpg/250px-Mouvaux_-_Cardinal_G%C3%A9rald_Cyprien_Lacroix_-_1_%28cropped%29.jpg"
-                 alt="Gérald Cyprien Cardinal Lacroix, I.S.P.X."
-                 title="Gérald Cyprien Cardinal Lacroix, I.S.P.X."
+                 alt="Gérald Cyprien Lacroix, I.S.P.X."
+                 title="Gérald Cyprien Lacroix, I.S.P.X."
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/President_Ma_and_Chibly_Langlois_%2817262956123%29_%28cropped%29.jpg/250px-President_Ma_and_Chibly_Langlois_%2817262956123%29_%28cropped%29.jpg"
-                 alt="Chibly Cardinal Langlois"
-                 title="Chibly Cardinal Langlois"
+                 alt="Chibly Langlois"
+                 title="Chibly Langlois"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Augusto_Paolo_Lojudice_con_il_pallio.jpg/250px-Augusto_Paolo_Lojudice_con_il_pallio.jpg"
-                 alt="Augusto Paolo Cardinal Lojudice"
-                 title="Augusto Paolo Cardinal Lojudice"
+                 alt="Augusto Paolo Lojudice"
+                 title="Augusto Paolo Lojudice"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Crist%C3%B3bal_L%C3%B3pez_Romero.jpg/250px-Crist%C3%B3bal_L%C3%B3pez_Romero.jpg"
-                 alt="Cristóbal Cardinal López Romero, S.D.B."
-                 title="Cristóbal Cardinal López Romero, S.D.B."
+                 alt="Cristóbal López Romero, S.D.B."
+                 title="Cristóbal López Romero, S.D.B."
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Archbishop_Thomas_Aquinas_Manyo_Maeda_in_2015.jpg/200px-Archbishop_Thomas_Aquinas_Manyo_Maeda_in_2015.jpg"
-                 alt="Thomas Aquino Manyo Cardinal Maeda"
-                 title="Thomas Aquino Manyo Cardinal Maeda"
+                 alt="Thomas Aquino Manyo Maeda"
+                 title="Thomas Aquino Manyo Maeda"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Soane_Patita_Paini_Mafi.jpg/250px-Soane_Patita_Paini_Mafi.jpg"
-                 alt="Soane Patita Paini Cardinal Mafi"
-                 title="Soane Patita Paini Cardinal Mafi"
+                 alt="Soane Patita Paini Mafi"
+                 title="Soane Patita Paini Mafi"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Rolandas_makrickas-1_%28edit%29.jpg/250px-Rolandas_makrickas-1_%28edit%29.jpg"
-                 alt="Rolandas Cardinal Makrickas"
-                 title="Rolandas Cardinal Makrickas"
+                 alt="Rolandas Makrickas"
+                 title="Rolandas Makrickas"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Dominique_Mamberti%2C_14_Dec_2010.jpg/250px-Dominique_Mamberti%2C_14_Dec_2010.jpg"
-                 alt="Dominique François Joseph Cardinal Mamberti"
-                 title="Dominique François Joseph Cardinal Mamberti"
+                 alt="Dominique François Joseph Mamberti"
+                 title="Dominique François Joseph Mamberti"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Cardeal_marengo.jpg/250px-Cardeal_marengo.jpg"
-                 alt="Giorgio Cardinal Marengo, I.M.C."
-                 title="Giorgio Cardinal Marengo, I.M.C."
+                 alt="Giorgio Marengo, I.M.C."
+                 title="Giorgio Marengo, I.M.C."
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Adalberto_Mart%C3%ADnez_Flores.jpg/250px-Adalberto_Mart%C3%ADnez_Flores.jpg"
-                 alt="Adalberto Cardinal Martínez Flores"
-                 title="Adalberto Cardinal Martínez Flores"
+                 alt="Adalberto Martínez Flores"
+                 title="Adalberto Martínez Flores"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Francesco_Montenegro_concistoro.jpg/250px-Francesco_Montenegro_concistoro.jpg"
-                 alt="Francesco Cardinal Montenegro"
-                 title="Francesco Cardinal Montenegro"
+                 alt="Francesco Montenegro"
+                 title="Francesco Montenegro"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ameyu_Martin_Mulla_%28edit%29.jpg/250px-Ameyu_Martin_Mulla_%28edit%29.jpg"
-                 alt="Stephen Ameyu Martin Cardinal Mulla"
-                 title="Stephen Ameyu Martin Cardinal Mulla"
+                 alt="Stephen Ameyu Martin Mulla"
+                 title="Stephen Ameyu Martin Mulla"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bischof-GL-M%C3%BCller.JPG/250px-Bischof-GL-M%C3%BCller.JPG"
-                 alt="Gerhard Ludwig Cardinal Müller"
-                 title="Gerhard Ludwig Cardinal Müller"
+                 alt="Gerhard Ludwig Müller"
+                 title="Gerhard Ludwig Müller"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Coat_of_arms_of_Ladislav_Nemet_%28cardinal%29.svg/250px-Coat_of_arms_of_Ladislav_Nemet_%28cardinal%29.svg.png"
-                 alt="Ladislav Cardinal Nemet, S.V.D."
-                 title="Ladislav Cardinal Nemet, S.V.D."
+                 alt="Ladislav Nemet, S.V.D."
+                 title="Ladislav Nemet, S.V.D."
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Archbishop_Vincent_Nichols_%287999797353%29_%28cropped%29.jpg/250px-Archbishop_Vincent_Nichols_%287999797353%29_%28cropped%29.jpg"
-                 alt="Vincent Gerard Cardinal Nichols"
-                 title="Vincent Gerard Cardinal Nichols"
+                 alt="Vincent Gerard Nichols"
+                 title="Vincent Gerard Nichols"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Dieudonn%C3%A9_Nzapala%C3%AFnga_VOA_cropped.jpg/250px-Dieudonn%C3%A9_Nzapala%C3%AFnga_VOA_cropped.jpg"
-                 alt="Dieudonné Cardinal Nzapalainga, C.S.Sp."
-                 title="Dieudonné Cardinal Nzapalainga, C.S.Sp."
+                 alt="Dieudonné Nzapalainga, C.S.Sp."
+                 title="Dieudonné Nzapalainga, C.S.Sp."
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Mons._Osoro_%2830877902606%29.jpg/250px-Mons._Osoro_%2830877902606%29.jpg"
-                 alt="Carlos Cardinal Osoro Sierra"
-                 title="Carlos Cardinal Osoro Sierra"
+                 alt="Carlos Osoro Sierra"
+                 title="Carlos Osoro Sierra"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Cardinal_Pietro_Parolin_par_Claude_Truong-Ngoc_juillet_2021.jpg/250px-Cardinal_Pietro_Parolin_par_Claude_Truong-Ngoc_juillet_2021.jpg"
-                 alt="Pietro Cardinal Parolin"
-                 title="Pietro Cardinal Parolin"
+                 alt="Pietro Parolin"
+                 title="Pietro Parolin"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Foto_Cardinale_Petrocchi_-_cropped.jpg/250px-Foto_Cardinale_Petrocchi_-_cropped.jpg"
-                 alt="Giuseppe Cardinal Petrocchi"
-                 title="Giuseppe Cardinal Petrocchi"
+                 alt="Giuseppe Petrocchi"
+                 title="Giuseppe Petrocchi"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/ChristophePierre_%28cropped%29.jpg/250px-ChristophePierre_%28cropped%29.jpg"
-                 alt="Christophe Louis Yves Georges Cardinal Pierre"
-                 title="Christophe Louis Yves Georges Cardinal Pierre"
+                 alt="Christophe Louis Yves Georges Pierre"
+                 title="Christophe Louis Yves Georges Pierre"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Mons._Pierbattista_Pizzaballa.jpg/250px-Mons._Pierbattista_Pizzaballa.jpg"
-                 alt="Pierbattista Cardinal Pizzaballa, O.F.M."
-                 title="Pierbattista Cardinal Pizzaballa, O.F.M."
+                 alt="Pierbattista Pizzaballa, O.F.M."
+                 title="Pierbattista Pizzaballa, O.F.M."
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Mario_Aurelio_Cardinal_Poli_%28cropped%29.JPG/250px-Mario_Aurelio_Cardinal_Poli_%28cropped%29.JPG"
-                 alt="Mario Aurelio Cardinal Poli"
-                 title="Mario Aurelio Cardinal Poli"
+                 alt="Mario Aurelio Poli"
+                 title="Mario Aurelio Poli"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Poola_Anthony.jpg/250px-Poola_Anthony.jpg"
-                 alt="Anthony Cardinal Poola"
-                 title="Anthony Cardinal Poola"
+                 alt="Anthony Poola"
+                 title="Anthony Poola"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mons._Robert_Prevost%2C_OSA_%28cropped%29.jpg/250px-Mons._Robert_Prevost%2C_OSA_%28cropped%29.jpg"
-                 alt="Robert Francis Cardinal Prevost, O.S.A."
-                 title="Robert Francis Cardinal Prevost, O.S.A."
+                 alt="Robert Francis Prevost, O.S.A."
+                 title="Robert Francis Prevost, O.S.A."
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2025.02.22._Timothy_Radcliffe_OP_Warsaw_Poland_Photo_Mariusz_Kubik_01.JPG/250px-2025.02.22._Timothy_Radcliffe_OP_Warsaw_Poland_Photo_Mariusz_Kubik_01.JPG"
-                 alt="Timothy Peter Joseph Cardinal Radcliffe, O.P."
-                 title="Timothy Peter Joseph Cardinal Radcliffe, O.P."
+                 alt="Timothy Peter Joseph Radcliffe, O.P."
+                 title="Timothy Peter Joseph Radcliffe, O.P."
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Baldassare_Reina.jpg/250px-Baldassare_Reina.jpg"
-                 alt="Baldassare Cardinal Reina"
-                 title="Baldassare Cardinal Reina"
+                 alt="Baldassare Reina"
+                 title="Baldassare Reina"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Coat_of_arms_of_Roberto_Repole_%28cardinal%29.svg/250px-Coat_of_arms_of_Roberto_Repole_%28cardinal%29.svg.png"
-                 alt="Roberto Cardinal Repole"
-                 title="Roberto Cardinal Repole"
+                 alt="Roberto Repole"
+                 title="Roberto Repole"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/John_Ribat_%28cropped%29.jpg/250px-John_Ribat_%28cropped%29.jpg"
-                 alt="John Cardinal Ribat, M.S.C."
-                 title="John Cardinal Ribat, M.S.C."
+                 alt="John Ribat, M.S.C."
+                 title="John Ribat, M.S.C."
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/S%C3%A9rgio_da_Rocha.jpg/250px-S%C3%A9rgio_da_Rocha.jpg"
-                 alt="Sérgio Cardinal da Rocha"
-                 title="Sérgio Cardinal da Rocha"
+                 alt="Sérgio da Rocha"
+                 title="Sérgio da Rocha"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Bishop_Arthur_Roche_2008.jpg/250px-Bishop_Arthur_Roche_2008.jpg"
-                 alt="Arthur Cardinal Roche"
-                 title="Arthur Cardinal Roche"
+                 alt="Arthur Roche"
+                 title="Arthur Roche"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Angel_Rossi_Arzobispo_1.1.jpg/250px-Angel_Rossi_Arzobispo_1.1.jpg"
-                 alt="Ángel Sixto Cardinal Rossi, S.J."
-                 title="Ángel Sixto Cardinal Rossi, S.J."
+                 alt="Ángel Sixto Rossi, S.J."
+                 title="Ángel Sixto Rossi, S.J."
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Escudo_de_Luis_Jos%C3%A9_Rueda_Aparicio.cardenal.svg/250px-Escudo_de_Luis_Jos%C3%A9_Rueda_Aparicio.cardenal.svg.png"
-                 alt="Luis José Cardinal Rueda Aparicio"
-                 title="Luis José Cardinal Rueda Aparicio"
+                 alt="Luis José Rueda Aparicio"
+                 title="Luis José Rueda Aparicio"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Rugambwa_Protase.jpg"
-                 alt="Protase Cardinal Rugambwa"
-                 title="Protase Cardinal Rugambwa"
+                 alt="Protase Rugambwa"
+                 title="Protase Rugambwa"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Arcybiskup_Grzegorz_Ry%C5%9B_podczas_Wigilii_Paschalnej_2020_%28cropped%29.jpg/250px-Arcybiskup_Grzegorz_Ry%C5%9B_podczas_Wigilii_Paschalnej_2020_%28cropped%29.jpg"
-                 alt="Grzegorz Wojciech Cardinal Ryś"
-                 title="Grzegorz Wojciech Cardinal Ryś"
+                 alt="Grzegorz Wojciech Ryś"
+                 title="Grzegorz Wojciech Ryś"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Louis_Rapha%C3%ABl_I_Sako_November_2015.jpg/250px-Louis_Rapha%C3%ABl_I_Sako_November_2015.jpg"
-                 alt="Louis Raphaël I Cardinal Sako"
-                 title="Louis Raphaël I Cardinal Sako"
+                 alt="Louis Raphaël I Sako"
+                 title="Louis Raphaël I Sako"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Semeraro_Udienza_20170504.jpg/250px-Semeraro_Udienza_20170504.jpg"
-                 alt="Marcello Cardinal Semeraro"
-                 title="Marcello Cardinal Semeraro"
+                 alt="Marcello Semeraro"
+                 title="Marcello Semeraro"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Archbishop_Berhaneyesus_Demerew_Souraphiel.jpg/250px-Archbishop_Berhaneyesus_Demerew_Souraphiel.jpg"
-                 alt="Berhaneyesus Demerew Cardinal Souraphiel, C.M."
-                 title="Berhaneyesus Demerew Cardinal Souraphiel, C.M."
+                 alt="Berhaneyesus Demerew Souraphiel, C.M."
+                 title="Berhaneyesus Demerew Souraphiel, C.M."
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Dom_Jaime_Spengler_-_Arcebispo.JPG/250px-Dom_Jaime_Spengler_-_Arcebispo.JPG"
-                 alt="Jaime Cardinal Spengler, O.F.M."
-                 title="Jaime Cardinal Spengler, O.F.M."
+                 alt="Jaime Spengler, O.F.M."
+                 title="Jaime Spengler, O.F.M."
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Leonardo_Steiner.jpg/250px-Leonardo_Steiner.jpg"
-                 alt="Leonardo Ulrich Cardinal Steiner, O.F.M."
-                 title="Leonardo Ulrich Cardinal Steiner, O.F.M."
+                 alt="Leonardo Ulrich Steiner, O.F.M."
+                 title="Leonardo Ulrich Steiner, O.F.M."
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/%2BIgnatius_Kardinal_Suharyo_%28cropped%29.jpg/250px-%2BIgnatius_Kardinal_Suharyo_%28cropped%29.jpg"
-                 alt="Ignatius Cardinal Suharyo Hardjoatmodjo"
-                 title="Ignatius Cardinal Suharyo Hardjoatmodjo"
+                 alt="Ignatius Suharyo Hardjoatmodjo"
+                 title="Ignatius Suharyo Hardjoatmodjo"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Coat_of_arms_of_Orani_Jo%C3%A3o_Tempesta.svg/250px-Coat_of_arms_of_Orani_Jo%C3%A3o_Tempesta.svg.png"
-                 alt="Orani João Cardinal Tempesta, O. Cist."
-                 title="Orani João Cardinal Tempesta, O. Cist."
+                 alt="Orani João Tempesta, O. Cist."
+                 title="Orani João Tempesta, O. Cist."
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Mgr._D%C3%A9sir%C3%A9_Tsarahazana.jpg/250px-Mgr._D%C3%A9sir%C3%A9_Tsarahazana.jpg"
-                 alt="Désiré Cardinal Tsarahazana"
-                 title="Désiré Cardinal Tsarahazana"
+                 alt="Désiré Tsarahazana"
+                 title="Désiré Tsarahazana"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Coat_of_arms_of_Emil_Paul_Tscherrig_%28cardinal%29.svg/250px-Coat_of_arms_of_Emil_Paul_Tscherrig_%28cardinal%29.svg.png"
-                 alt="Emil Paul Cardinal Tscherrig"
-                 title="Emil Paul Cardinal Tscherrig"
+                 alt="Emil Paul Tscherrig"
+                 title="Emil Paul Tscherrig"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Jean-Paul_Vesco%2C_OP-022022.jpg/250px-Jean-Paul_Vesco%2C_OP-022022.jpg"
-                 alt="Jean-Paul Cardinal Vesco, O.P."
-                 title="Jean-Paul Cardinal Vesco, O.P."
+                 alt="Jean-Paul Vesco, O.P."
+                 title="Jean-Paul Vesco, O.P."
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Card._Heung-sik.png/250px-Card._Heung-sik.png"
-                 alt="Lazzaro Cardinal You Heung-sik"
-                 title="Lazzaro Cardinal You Heung-sik"
+                 alt="Lazzaro You Heung-sik"
+                 title="Lazzaro You Heung-sik"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
           
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Mario_Zenari.jpg/250px-Mario_Zenari.jpg"
-                 alt="Mario Cardinal Zenari"
-                 title="Mario Cardinal Zenari"
+                 alt="Mario Zenari"
+                 title="Mario Zenari"
                  data-bs-toggle="tooltip"
                  class="rounded border"
                  style="width:32px;height:32px;object-fit:cover;">
@@ -2089,7 +2089,6 @@ Until then, the Game of Robes continues...
     <li>Scraped voting-age cardinal data from Wikipedia</li>
     <li>Validated dates, orders, and procedures via Catholic-Hierarchy, CSUN Conclave List, and FIU Cardinals Catalogs</li>
     <li>Built an interactive model with political, institutional, geographic, age, papal-pick, and market-odds inputs</li>
-    <li>Reconstructed voting-market dynamics using GARCH-based coefficients</li>
   </ul>
 
   <h2>Bibliography</h2>
