@@ -4,7 +4,22 @@ layout: post-default
 
 <section class="container">
 
-    <h1 class="display-1 fw-bold py-3">{{ page.title }}</h1>
+    <h1 class="display-1 fw-bold py-1">{{ page.title }}</h1>
+
+    {% if page.author or page.date %}
+      <div class="d-flex flex-wrap align-items-center text-muted small py-1 mb-4">
+        {% if page.author %}
+          <span class="me-3">
+            Posted By: {{ page.author }}
+          </span>
+        {% endif %}
+        {% if page.date %}
+          <span>
+            Last Updated: {{ page.date | date: "%B %-d, %Y" }}
+          </span>
+        {% endif %}
+      </div>
+    {% endif %}
 
     <img src="{{ page.image }}" alt="{{ page.title }}" width="100%" height="auto" loading="lazy" />
     
