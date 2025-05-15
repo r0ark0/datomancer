@@ -24,7 +24,10 @@ layout: post-default
     <img src="{{ page.image }}" alt="{{ page.title }}" width="100%" height="auto" loading="lazy" />
     
     <article class="datomancer-article {% if page.style_class %} {{ page.style_class }}{% endif %}">
-        {{content}}
+      {{ content
+        | replace: '<table>', '<table class="table table-hover">'
+        | replace: '<thead>', '<thead class="table-light">' 
+      }}      
     </article>
 
 </section>
