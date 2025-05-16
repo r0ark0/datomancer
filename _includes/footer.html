@@ -1,9 +1,23 @@
-<section class="container">
-    <footer class="text-light py-3 my-4">
-        <ul class="nav justify-content-center border-bottom pb-3 mb-3">
-            <li class="nav-item"><a href="/about" class="nav-link px-2">About</a></li>
-            <li class="nav-item"><a href="/atom.xml" class="nav-link px-2">Subscribe <i class="bi bi-rss-fill"></i></a></li>
-        </ul>
-        <p class="text-center">&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
-    </footer>
-</section>
+<footer class="position-relative overflow-hidden text-light py-5 mt-5">
+  <div class="container py-5">
+    <div class="row">
+
+      <div class="col-md-4 mb-4 mb-md-0">
+        <a href="/" class="d-flex align-items-center mb-3 text-decoration-none text-light">
+          <img src="/logo.png" alt="{{ site.title }}" width="150" height="auto" class="me-2">
+        </a>
+        <small class="d-block">© {{ site.time | date: "%Y" }} {{ site.title }}</small>
+      </div>
+
+    <!-- More links -->
+
+    </div>
+  </div>
+
+  <div class="position-absolute bottom-0 w-100 d-flex justify-content-center py-5 mt-5" style="pointer-events:none;">
+    <img src="/logo.png"
+         alt=""
+         class="footer-bg-logo"
+         aria-hidden="true">
+  </div>
+</footer>
