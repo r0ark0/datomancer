@@ -10,7 +10,7 @@ tags: [internet, ai, reddit]
 
 It turns out 23% of posts on [r/AmItheAsshole](https://www.reddit.com/r/AmItheAsshole/) are (potentially) written by AI. But before we freak out and lose our minds, let's break this down a bit.
 
-<div id="aita-ai-vs-human" style="width:400px; height:400px; margin:auto;" class="mb-3"></div>
+<div id="aita-ai-vs-human" style="width:100%; height:auto; margin:auto;" class="mb-3"></div>
 
 {% raw %}
 <style>
@@ -129,7 +129,7 @@ It might not have been written by a human... Social media is filled with [AI slo
 Increasingly, Reddit is populated by bots, or at best, users engaging without genuine intent. Using AI to write for them and automate engagement, or putting low effort into writing posts themselves. They're just farming karma or mimicking real conversation. There's a great video from [Neon Sharpe](https://www.youtube.com/@NeonSharpe) on Youtube for how to spot these kinds reddit posts in the wild:
 
 <div class="mb-5">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Tk3tSsNLBo4?si=uB2IbQyctfCY3fG7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Tk3tSsNLBo4?si=uB2IbQyctfCY3fG7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 This video inspired me to go a step further: what if we tried to detect these patterns programmatically? Could we quantify just how bot-saturated Reddit has become, and what kind of behavior do these bots (or AI written posts) actually exhibit?
@@ -1507,7 +1507,7 @@ Let's take a closer look at the underlying "model" I created (if you can call it
 
 To understand what the model is actually detecting, it helps to look under the hood. Each post in our dataset is assigned a raw score between 0 and 1 based on a weighted combination of ten text features, things like overuse of intensifiers, unnatural quote formatting, or generic sign-offs. This raw score is then normalized into an AI-likelihood score, calibrated so that scores below 0.20 are treated as “very likely human,” and anything above 0.80 is flagged as “very likely AI.”
 
-<div id="aita-score-histogram" style="width:700px; height:400px; margin:auto;"></div>
+<div id="aita-score-histogram" style="width:100%; height:auto; margin:auto;"></div>
 
 {% raw %}
 <style>
@@ -2617,7 +2617,7 @@ To make sure r/AmItheAsshole wasn't a fluke, we ran our detector over 1,000 of t
 
 Here's what we found:
 
-<div id="subreddit-ai-share" style="width:100%;max-width:600px;height:250px;margin:auto;"></div>
+<div id="subreddit-ai-share" style="width:100%;max-width:350px;height:250px;margin:auto;"></div>
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script>
@@ -2785,3 +2785,27 @@ The same pattern is playing out across the internet:
 But platforms need growth, and synthetic users are technically growth. They fill timelines, juice metrics, and keep the investors happy. We may not be living in a fully "dead internet" just yet. But we do have an internet optimized purely for engagement metrics.
 
 The last decade promised an internet that was more human, more social, more connected, more personal. But the next decade will be different: authenticity must be sought, not assumed.
+
+<hr>
+
+<div class="bibliography">
+  <h2>Methods</h2>
+  <ul>
+    <li>Fetched top 1,000 posts from <code>r/AmItheAsshole</code> and <code>r/AITAH</code> via Reddit</li>
+    <li>Extracted titles, bodies, and upvote counts</li>
+    <li>Built a heuristic AI-detector in Python using regular expressions, NLTK tokenization, and VADER sentiment analysis</li>
+    <li>Computed raw AI-likelihood scores from ten text-features, then calibrated them into human- vs AI-labels</li>
+    <li>Visualized label distributions and score vs upvotes scatterplots with Matplotlib</li>
+  </ul>
+
+  <h2>Bibliography</h2>
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=OZz0GlpPlv8">Neon Sharpe: How to Identify Bots on Reddit</a></li>
+    <li><a href="https://www.nltk.org/">NLTK: Natural Language Toolkit</a></li>
+    <li><a href="https://github.com/cjhutto/vaderSentiment">VADER Sentiment Analysis</a></li>
+    <li><a href="https://reddit.com/r/AmItheAsshole/top/?sort=top&amp;t=year">r/AmItheAsshole top posts (year)</a></li>
+    <li><a href="https://reddit.com/r/AITAH/top/?sort=top&amp;t=year">r/AITAH top posts (year)</a></li>
+  </ul>
+
+  Data pulled on 5/14/2025
+</div>

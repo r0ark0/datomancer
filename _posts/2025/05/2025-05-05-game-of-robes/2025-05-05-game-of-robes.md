@@ -2067,22 +2067,6 @@ Until then, the Game of Robes continues...
 
 <hr>
 
-<style>
-  .bibliography, 
-  .bibliography * {
-    font-size: 0.6rem !important;
-    line-height: 1.2 !important;
-  }
-  .bibliography h2 {
-    margin-top: 0.5rem;
-    margin-bottom: 0.5rem;
-  }
-  .bibliography ul {
-    margin-top: 0;
-    padding-left: 1rem;
-  }
-</style>
-
 <div class="bibliography">
   <h2>Methods</h2>
   <ul>
